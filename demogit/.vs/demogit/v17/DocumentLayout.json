@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "demogit\\Program.cs",
               "ToolTip": "D:\\demoGithub\\demogit\\demogit\\Program.cs",
               "RelativeToolTip": "demogit\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T12:16:37.535Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "demogit\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T12:16:22.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T12:16:22.698Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "demogit\\Controllers\\AccountController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAIwCMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:15:40.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T12:15:40.666Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "demogit\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:14:49.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T12:14:49.378Z"
             }
           ]
         }
