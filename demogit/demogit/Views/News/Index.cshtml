@@ -1,0 +1,36 @@
+﻿@model IEnumerable<demogit.Models.News>
+
+@{
+    ViewData["Title"] = "Tin tức mới nhất";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Description</p>
+                    </div>
+                    <div class="card-footer text-muted">
+                        Ngày đăng: @item.Date
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 10px;
+        transition: transform 0.2s ease;
+    }
+    .card:hover {
+        transform: translateY(-5px);
+    }
+</style>
