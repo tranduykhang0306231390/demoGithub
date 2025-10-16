@@ -39,5 +39,9 @@ namespace demogit.Controllers
             HttpContext.Session.Clear();
             return RedirectToAction("Login");
         }
+        public IActionResult Register()
+        {
+            return View();
+        }
     }
 }
