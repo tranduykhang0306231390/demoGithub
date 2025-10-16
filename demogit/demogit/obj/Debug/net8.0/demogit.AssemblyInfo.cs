@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demogit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b92b6c9fc174f5c8e7c87b8395c32a995049b77d")]
 [assembly: System.Reflection.AssemblyProductAttribute("demogit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demogit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
